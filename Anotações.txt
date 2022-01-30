@@ -1,0 +1,58 @@
+Repositórios
+
+github.com/gustavoguanabara
+gustavoguanabara.github.io
+
+Bibliografia
+
+MDN - https://developer.mozilla.org/pt-BR/docs/Web/Reference
+
+W3C (OFICIAL) - https://www.w3.org/standards/webdesign/
+
+WHATWG LIVING STANDARD - https://html.spec.whatwg.org/
+
+W3SCHOOLS - https://www.w3schools.com/
+
+Livros técnicos
+
+HTML5 Entendendo e Executando 
+Mark Pilgrim
+O'Reilly
+
+Guia definitivo do CSS
+Eric Meyer
+O'Reilly
+
+Flexbox in CSS
+Eslelle Weyl
+O'Reilly
+
+Grid Layout in CSS
+Eric Meyer
+O'Reilly
+
+
+
+Livros ilustrativos
+
+HTML5 e CSS3
+Elisabeth Castro e Bruce Hyslop
+Alta Books
+
+HTML&CSS (Livro Caro)
+Jon Duckett
+Alta Books
+
+Use a Cabeça! HTML e CSS
+Elisabeth Robson e Eric Freeman
+
+Fundamentos de HTML5 e CSS3
+Mauricio Samy Silva
+Novatec
+
+CSS Grid Layout
+Mauricio Samy Silva
+Novatec
+
+
+
