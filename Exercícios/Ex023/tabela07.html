@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício de Tabela</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        table {
+            border-collapse: collapse;
+            width: 700px;
+        }
+        th {
+            text-align: center;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+        }
+        .cnome{
+            background-color: rgb(187, 241, 243);
+        }
+        .cprof{
+            background-color: rgb(207, 241, 190);
+        }
+
+    </style>
+</head>
+<body>
+   <h1>Exercício de tabela</h1> 
+</body>
+<table>
+    <!--Tag <colgroupnome> ajuda selecionar e aplicar estilos sobre colunas inteiras-->
+    <colgroup>
+        <col class="cnome">
+        <col class="csexo">
+        <col class="cidade">
+        <col class="cprof">
+    </colgroup>
+    <caption>Cadastro </caption>
+    <tr>
+        <th scope="col">Nome</th>
+        <th scope="col">Sexo</th>
+        <th scope="col">Idade</th>
+        <th scope="col">Profissão</th>
+    </tr>
+    <tr>
+        <td>Vinicius Alves</td>
+        <td>M</td>
+        <td>43</td>
+        <td>Contabilista</td>
+    </tr>
+    <tr>
+        <td>Vivian Moura</td>
+        <td>F</td>
+        <td>40</td>
+        <td>Administradora</td>
+    </tr>
+    <tr>
+        <td>Isis Alves</td>
+        <td>F</td>
+        <td>71</td>
+        <td>Aposentada</td>
+    </tr>
+    <tr>
+        <td>Miguel Alves</td>
+        <td>M</td>
+        <td>5</td>
+        <td>Estudante</td>
+    </tr>
+    <tr>
+        <td>Marcelo Almeida</td>
+        <td>M</td>
+        <td>43</td>
+        <td>Analista de Sistemas</td>
+    </tr>
+    <tr>
+        <td>Erika Almeida</td>
+        <td>F</td>
+        <td>33</td>
+        <td>Professora</td>
+    </tr>
+    <tr>
+        <td>Marinete Moura</td>
+        <td>F</td>
+        <td>63</td>
+        <td>Faxineira</td>
+    </tr>
+    <tr>
+        <td>Aline Barroso</td>
+        <td>F</td>
+        <td>47</td>
+        <td>Vendedora</td>
+    </tr>
+    <tr>
+        <td>Alceu Barroso</td>
+        <td>M</td>
+        <td>51</td>
+        <td>Dentista</td>
+    </tr>
+    <tr>
+        <td>Gustavo Autonomo</td>
+        <td>M</td>
+        <td>41</td>
+        <td>Administrador</td>
+    </tr>
+</table>
+</html>
